@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>127953179057-uv6n23qh6e1pvnq33en54kbtbknhtmtp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.127953179057-uv6n23qh6e1pvnq33en54kbtbknhtmtp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDdXxyTU_5jTPR3B334wgjdJf-1iOcOwY0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>127953179057</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.abu.TikTok</string>
+	<key>PROJECT_ID</key>
+	<string>tiktok-clone-df470</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tiktok-clone-df470.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:127953179057:ios:cdcff69fe1fe812c172d90</string>
+	<key>DATABASE_URL</key>
+	<string>https://tiktok-clone-df470-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
